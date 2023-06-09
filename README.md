@@ -1,5 +1,9 @@
 # csis3380_group9
 
+## Login as Test User on demo site:
+Email: test@gmail.com
+Password: 123456
+
 ## To start the project
 1. Download the project, unzip and open in vscode
 
